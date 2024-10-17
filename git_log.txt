@@ -1,1 +1,4 @@
-Git commit -m "Zmenit datu, SCRUM-11"
+git commit -m "Zmenit datu, SCRUM-11"
+git commit -m "Pridat Abstrakt, SCRUM-22"
+git commit -m "Vymazat section introducing, SCRUM-23"
+git commit -m "Zmenit meno autora, SCRUM-24"
